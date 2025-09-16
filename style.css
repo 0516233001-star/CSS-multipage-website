@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(252, 115, 138);
+    color:whitesmoke;
+    font-family: serif;
+}
+
+h1 {
+    font-family:'Times New Roman', Times, serif;
+    background-color: black;
+}
+
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: Black;
+}
+
+.more-info {
+    color: White;
+    background-color: black;
+}
